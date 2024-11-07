@@ -1,4 +1,4 @@
-##A novel AI algorithm of GRU model integrated with transfer learning, is proposed to perform de novo natural products design that employed as novel NLRP3 inhibitors. 
+## A novel AI algorithm of GRU model integrated with transfer learning, is proposed to perform de novo natural products design that employed as novel NLRP3 inhibitors. 
 ### 1.perform pre-training process
 `python train.py`
 ### 2.perform transfer learning process
